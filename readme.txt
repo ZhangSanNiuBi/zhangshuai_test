@@ -7,6 +7,3 @@ Git reacks changes of files.
 <<<<<<< HEAD
 Creating a new branch is quick & simple.
 
-=======
-Creating a new branch is quick AND simple AND easy
->>>>>>> feature1
