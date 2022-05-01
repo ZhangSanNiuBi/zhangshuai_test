@@ -5,4 +5,4 @@ Git is free software
 Git has a mutable index called stage.
 Git reacks changes of files.
 Modify readme.txt for branch
-bug fixed
+bug fixed  bug fixed fixed
